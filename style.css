@@ -1,0 +1,23 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.page-heading {
+    background-color: #FFA500;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    border: 5px solid #FFA500;
+}
+
+.sub-heading {
+    background-color: yellow;
+}
+
+ul, ol {
+    text-align: left;
+}
